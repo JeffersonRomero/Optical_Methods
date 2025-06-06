@@ -1,0 +1,15 @@
+Se realiza la calibración de un espectrómetro, de la cual se adjunta el espectro de una lámpara calibrada en irradiancia (certificada para 50cm de distancia) y la medida bruta realizada por un espectrómetro a esa lámpara situada a 75cm. 
+
+Posteriormente se emplea el espectrómetro para medir la irradiancia de otra lámpara. Se adjunta la medida bruta de esta lámpara 2. 
+
+Por último, se adjunta la eficacia luminosa fotópica de la CIE - 1924. 
+
+Representar las curvas.
+
+Calcular:
+a) La curva de calibración espectral del instrumento.
+b) La irradiancia total espectral e integrada que llega de la lámpara 2. 
+c) Iluminancia y eficacia luminosa de la lámpara 2. 
+d) Fracción de la irradiancia y de la iluminación en los siguientes intervalos espectrales:
+380-830 nm
+450-700 nm
